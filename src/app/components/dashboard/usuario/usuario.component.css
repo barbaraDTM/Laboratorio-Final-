@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+  margin-top: 15px;
+  box-shadow: 5px 65px 5px #f39db8;
+
+}
+
+th {
+  width: 15% ;
+  color: #f39db8;
+  font-weight: 400
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
